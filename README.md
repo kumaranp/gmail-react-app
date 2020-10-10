@@ -1,1 +1,5 @@
-# gmail-react-app
+
+
+---
+permalink: /index.html
+---
